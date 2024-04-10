@@ -1,0 +1,15 @@
+.bg-primary{
+    background-color: blue !important;
+}
+
+.text-primary{
+    color: blue !important;
+}
+
+a{
+    color: rgb(75, 75, 251);
+}
+
+body{
+    background-color: rgb(204, 231, 255);
+}
